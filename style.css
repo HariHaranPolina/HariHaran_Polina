@@ -1,0 +1,23 @@
+/* Example: Styling headings */
+h1 {
+    color: #333;   /* Text color */
+    font-size: 24px;
+}
+
+/* Example: Styling paragraphs */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Example: Styling links */
+a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underlines from links */
+}
+
+/* Example: Styling images */
+img {
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    height: auto; /* Maintain image aspect ratio */
+}
